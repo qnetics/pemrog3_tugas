@@ -1,0 +1,2 @@
+migrate:
+	java Migrations.java

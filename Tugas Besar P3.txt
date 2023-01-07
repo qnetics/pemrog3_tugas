@@ -1,0 +1,41 @@
+Sistem Perpustakaan
+
+Data Anggota
+Data Buku
+Data Peminjaman
+
+Menu Utama
+
+1. Tambah Data Anggota
+2. Ubah Data Aggota
+3. Hapus Data Anggota
+4. Lihat Data Anggota
+
+screenshoot bukti tampilan layar setiap aksi menu
+copy paste bukti tampilan layar ke word dan jadikan ke pdf
+
+format nama file pdf npm_nama_kelas
+
+collect file ke ketua kelas
+ketua kelas memasukkan file pdf ke dalam 1 folder
+penamaan folder TUGAS P3 R3Q
+
+deadline pengumpulan 8 januari 2023 jam 23.59
+
+
+data_anggota :
+    - id
+    - nama_anggota
+    - email
+    - password
+
+data_buku :
+    - id
+    - nama_buku
+    - pengarang
+
+data_peminjam :
+    - id
+    - user_id
+    - buku_id
+    - jumlah_buku

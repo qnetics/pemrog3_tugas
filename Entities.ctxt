@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Entities
+comment1.params=UserId\ BookId\ BookAmount
+comment1.target=java.util.HashMap\ AddModel(int,\ int,\ int)
+comment1.text=\r\n\ \ Main\ Features\r\n
+comment2.params=Id\ UserId\ BookId\ BookAmount
+comment2.target=java.util.HashMap\ EditModel(int,\ int,\ int,\ int)
+comment3.params=Id
+comment3.target=java.util.HashMap\ DeleteModel(int)
+numComments=4

@@ -1,0 +1,24 @@
+---- database schema ----
+data_anggota :
+    - id
+    - nama_anggota
+    - email
+    - password
+
+data_buku :
+    - id
+    - nama_buku
+    - pengarang
+
+data_peminjam :
+    - id
+    - id_anggota
+    - id_buku
+    - jumlah_buku
+
+---- behaviours ----
+1. Lihat Data Peminjam 
+2. Tambah Data Peminjam
+3. Ubah Data Peminjam
+4. Hapus Data Peminjam
+5. keluar

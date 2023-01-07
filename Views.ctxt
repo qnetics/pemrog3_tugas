@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Views
+comment1.params=
+comment1.target=Views()
+comment2.params=
+comment2.target=int\ MainViews()
+comment3.params=ShowUserDatas
+comment3.target=void\ ShowBorrowerViews(java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.HashMap\ AddBorrowerViews()
+comment5.params=
+comment5.target=java.util.HashMap\ EditBorrowerViews()
+comment6.params=
+comment6.target=java.util.HashMap\ DeleteBorrowerViews()
+numComments=7
